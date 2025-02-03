@@ -1,0 +1,14 @@
+C:\Users\GABRIELLAMILLER\source\repos\Exceptions_Miller_Gabriella\Exceptions_Miller_Gabriella\bin\Debug\net7.0\Exceptions_Miller_Gabriella.exe
+C:\Users\GABRIELLAMILLER\source\repos\Exceptions_Miller_Gabriella\Exceptions_Miller_Gabriella\bin\Debug\net7.0\Exceptions_Miller_Gabriella.deps.json
+C:\Users\GABRIELLAMILLER\source\repos\Exceptions_Miller_Gabriella\Exceptions_Miller_Gabriella\bin\Debug\net7.0\Exceptions_Miller_Gabriella.runtimeconfig.json
+C:\Users\GABRIELLAMILLER\source\repos\Exceptions_Miller_Gabriella\Exceptions_Miller_Gabriella\bin\Debug\net7.0\Exceptions_Miller_Gabriella.dll
+C:\Users\GABRIELLAMILLER\source\repos\Exceptions_Miller_Gabriella\Exceptions_Miller_Gabriella\bin\Debug\net7.0\Exceptions_Miller_Gabriella.pdb
+C:\Users\GABRIELLAMILLER\source\repos\Exceptions_Miller_Gabriella\Exceptions_Miller_Gabriella\obj\Debug\net7.0\Exceptions_Miller_Gabriella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GABRIELLAMILLER\source\repos\Exceptions_Miller_Gabriella\Exceptions_Miller_Gabriella\obj\Debug\net7.0\Exceptions_Miller_Gabriella.AssemblyInfoInputs.cache
+C:\Users\GABRIELLAMILLER\source\repos\Exceptions_Miller_Gabriella\Exceptions_Miller_Gabriella\obj\Debug\net7.0\Exceptions_Miller_Gabriella.AssemblyInfo.cs
+C:\Users\GABRIELLAMILLER\source\repos\Exceptions_Miller_Gabriella\Exceptions_Miller_Gabriella\obj\Debug\net7.0\Exceptions_Miller_Gabriella.csproj.CoreCompileInputs.cache
+C:\Users\GABRIELLAMILLER\source\repos\Exceptions_Miller_Gabriella\Exceptions_Miller_Gabriella\obj\Debug\net7.0\Exceptions_Miller_Gabriella.dll
+C:\Users\GABRIELLAMILLER\source\repos\Exceptions_Miller_Gabriella\Exceptions_Miller_Gabriella\obj\Debug\net7.0\refint\Exceptions_Miller_Gabriella.dll
+C:\Users\GABRIELLAMILLER\source\repos\Exceptions_Miller_Gabriella\Exceptions_Miller_Gabriella\obj\Debug\net7.0\Exceptions_Miller_Gabriella.pdb
+C:\Users\GABRIELLAMILLER\source\repos\Exceptions_Miller_Gabriella\Exceptions_Miller_Gabriella\obj\Debug\net7.0\Exceptions_Miller_Gabriella.genruntimeconfig.cache
+C:\Users\GABRIELLAMILLER\source\repos\Exceptions_Miller_Gabriella\Exceptions_Miller_Gabriella\obj\Debug\net7.0\ref\Exceptions_Miller_Gabriella.dll
